@@ -1,0 +1,12 @@
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\obj\Debug\ArchPlanningAddon.csprojResolveAssemblyReference.cache
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\bin\Debug\net48\ArchPlanningAddon.dll
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\bin\Debug\net48\ArchPlanningAddon.pdb
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\bin\Debug\net48\mscorlib.dll
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\bin\Debug\net48\ko\mscorlib.resources.dll
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\bin\Debug\net48\normidna.nlp
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\bin\Debug\net48\normnfc.nlp
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\bin\Debug\net48\normnfd.nlp
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\bin\Debug\net48\normnfkc.nlp
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\bin\Debug\net48\normnfkd.nlp
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\obj\Debug\ArchPlanningAddon.dll
+C:\Users\SEOP\Desktop\grasshopper addon development\ArchPlanningAddon\obj\Debug\ArchPlanningAddon.pdb
